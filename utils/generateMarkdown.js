@@ -14,7 +14,38 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ${data.license}
+
+  ${data.tech}
+
+## Description
+${data.description}
+
+## Table of Contents
+[Description](#description)
+[Installation](#installation-instructions)
+[Usage](#usage-information)
+[Contribution](#contribution-guildines)
+[Testing](#testing-instruction)
+[Questions](#questions)
+
+## Installation Instructions
+${data.installation}
+
+## Usage Information
+${data.usage}
+
+## Contribution Guidlines
+${data.contribution}
+
+## Testing Intructions
+${data.testing}
+
+##Questions?
+github.com/${data.githubName}
+${data.email}
 `;
 }
+//WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
 
 module.exports = generateMarkdown;
