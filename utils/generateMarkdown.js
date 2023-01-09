@@ -39,9 +39,9 @@ ${data.usage}
 ${data.contribution}
 
 ## Testing Intructions
-${data.testing}
+${data.test}
 
-##Questions?
+## Questions?
 github.com/${data.githubName}
 ${data.email}
 `;

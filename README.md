@@ -1,11 +1,11 @@
-# demo
+# Team Reference Creator CLI
 
-  [![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)
+  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-  [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/),[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
+  [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/),![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white),![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white),[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
 
 ## Description
-demo
+We create an HTML page after asking a sereies of questions of the manager and employees/interns under them.
 
 ## Table of Contents
 [Description](#description)
@@ -16,17 +16,17 @@ demo
 [Questions](#questions)
 
 ## Installation Instructions
-with gusto
+You can install from the Git Project direct and run index.js through node.
 
 ## Usage Information
-demo
+You should be able to run and see the generated markdown used to help generate this html for frontend consumption.
 
 ## Contribution Guidlines
-github
+People can fork this project to create their own custom CSS to be used for frontend unique consumption.
 
 ## Testing Intructions
 undefined
 
 ##Questions?
-github.com/chitosama
-josecueto@att.net
+github.com/Chitosama
+josecueto090@gmail.com
